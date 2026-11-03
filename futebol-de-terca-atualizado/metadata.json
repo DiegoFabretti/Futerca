@@ -1,6 +1,0 @@
-{
-  "name": "Futebol de Terça - Sorteio & Avaliação",
-  "description": "Sistema completo para gerenciar o futebol de terça-feira com avaliação de notas por posição, sorteio inteligente de equipes balanceadas e cronômetro de rodízio.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
